@@ -2,22 +2,25 @@
     margin: 0%;
 }
 body {
-    background-color: rgb(68, 57, 57);
-    color: white;
+    background-color: #FFDAC6;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
        
 }
 header {
     font-size: larger;
-    background-color: black;
+    background-color: #716209;
     padding: 2%;
+    color: #BABD8D;
     
 }
 h1 {
     font-size: medium;
     padding: 1%;
+    color: #716209;
 }
 p {
     padding: 1%;
+    
 }
